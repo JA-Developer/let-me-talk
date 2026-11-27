@@ -1,0 +1,16 @@
+@LetMeTalkApi_HostAddress = http://localhost:5238
+
+GET {{LetMeTalkApi_HostAddress}}/api/Categoria
+Accept: application/json
+
+###
+
+GET {{LetMeTalkApi_HostAddress}}/api/Pictograma
+Accept: application/json
+
+###
+
+GET {{LetMeTalkApi_HostAddress}}/api/Frase
+Accept: application/json
+
+###
